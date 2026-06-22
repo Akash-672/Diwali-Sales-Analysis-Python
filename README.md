@@ -87,6 +87,7 @@ The dataset contains customer transaction data, including:
 ## Tools Used
 
 * Python
+* Google colab notebook
 * Pandas
 * NumPy
 * Matplotlib
