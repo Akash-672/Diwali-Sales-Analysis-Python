@@ -97,9 +97,9 @@ The dataset contains customer transaction data, including:
 
 ## Files
 
-* `python_project.ipynb`
-* `Diwali Sales Data.csv`
-* `README.md`
+* <a href = "https://github.com/Akash-672/Diwali-Sales-Analysis-Python/blob/main/python_project.ipynb”>Python_file.ipynb</a>
+* <a href = "https://github.com/Akash-672/Diwali-Sales-Analysis-Python/blob/main/Diwali%20Sales%20Data.csv”>Diwali Sales Data.csv</a>
+* <a href = "https://github.com/Akash-672/Diwali-Sales-Analysis-Python/blob/main/README.md”>Readme.md</a>
 
 ---
 
